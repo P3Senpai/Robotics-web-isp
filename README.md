@@ -4,7 +4,8 @@ About the website -->
     First versions of the website are created by using a free bootstrap template from the official website.
 
 About Author (started : ended) -->
-    // add two dashes before author to visually separate 
+
+    //add two dashes (--) before author to differenciate between them
     --
     Petr Milev (P3Senpai)(Dec 2017 : NOW) == The author was too lazy to create a website from scratch but                                          chose to spend 2h and a half tring to center a img.
     
