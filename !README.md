@@ -19,4 +19,4 @@ Featrues to add -->
 
 - add achievements section
 - (maybe) try to implement live feed of youtube or instagram ????
-- In the contacts us section make the email button work so that when you click it it will make a draft email on your account with our team as the recipient
+- (in future) try making the email button go to inbox compose rather than the full screen message
