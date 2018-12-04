@@ -22,8 +22,5 @@ Petr Milev (P3Senpai)(Dec 2017 : NOW) ==
 
 - add achievements section
 - (maybe) try to implement live feed of youtube or instagram ????
-<<<<<<< HEAD
 - (in future) try making the email button go to inbox compose rather than the full screen message
-=======
 - In the contacts us section make the email button work so that when you click it it will make a draft email on your account with our team as the recipient
->>>>>>> 247202c011c505dfd05a78fe862c5ecb602f559e
