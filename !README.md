@@ -4,7 +4,6 @@ About the website -->
     First versions of the website are created by using a free bootstrap template from the official website.
 
 About Author -->
-
     /*Formatting of authors
      *  !imp  -- if you make any changes to the website add your about author description
      * add two dashes (--) before author to differenciate between them
