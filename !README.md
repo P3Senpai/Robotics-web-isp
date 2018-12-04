@@ -10,10 +10,10 @@ About Author -->
      add two dashes (--) before author to differenciate between them
      (Real name) (Git username) (date editing) == (message by author)
      
-     
-     --
-     Petr Milev (P3Senpai)(Dec 2017 : NOW) == 
+ ------------------------------------------------------------------------------------------------------------
+ Petr Milev (P3Senpai)(Dec 2017 : NOW) == 
      The author was too lazy to create a website from scratch but chose to spend 2h and a half tring to center a img.
+ ------------------------------------------------------------------------------------------------------------
     
 Featrues to add --> 
 
